@@ -15,7 +15,8 @@
     h1 { margin:.15em 0; font-size:clamp(42px,8vw,72px); line-height:.94; text-transform:uppercase; }
     .muted { color:var(--muted); }
     .status { margin:28px 0; padding:14px 16px; border:1px solid var(--line); background:var(--panel); }
-    .status.error { border-color:var(--red); }
+  .status.error { border-color:var(--red); }
+  .status.test { border-color:var(--gold); color:var(--gold); }
     .board { border:1px solid var(--line); background:var(--panel); }
     .row { display:grid; grid-template-columns:52px 1fr auto; gap:16px; align-items:center; padding:15px 18px; border-top:1px solid var(--line); }
     .row:first-child { border-top:0; }
@@ -95,9 +96,8 @@ function render(items){
 }
 
 Promise.all([fetch('./data/status.json',{cache:'no-store'}),fetch('./data/placements.csv',{cache:'no-store'})])
-  .then(async ([s,p])=>{if(!s.ok||!p.ok)throw new Error('Leaderboard files are unavailable.');const status=await s.json();const placements=placementsFromCSV(await p.text());statusBox.textContent=status.message||'Leaderboard loaded.';statusBox.classList.toggle('error',status.state!=='verified');render(status.state==='verified'?standings(placements):[]);})
+  .then(async ([s,p])=>{if(!s.ok||!p.ok)throw new Error('Leaderboard files are unavailable.');const status=await s.json();const placements=placementsFromCSV(await p.text());statusBox.textContent=status.message||'Leaderboard loaded.';statusBox.classList.toggle('error',!['verified','test'].includes(status.state));statusBox.classList.toggle('test',status.state==='test');render(['verified','test'].includes(status.state)?standings(placements):[]);})
   .catch(error=>{statusBox.textContent=error.message;statusBox.classList.add('error');render([]);});
 </script>
 </body>
 </html>
-
