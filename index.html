@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Unofficial Infinity Rising cross-leaderboard standings by Rise Underground">
+  <title>Leaders of the Leaderboards</title>
+  <style>
+    :root { color-scheme: dark; --bg:#0a0a0b; --panel:#18181b; --line:#303035; --text:#f0ede6; --muted:#9a9894; --red:#e0202b; --gold:#d4a537; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:radial-gradient(circle at 15% 0,rgba(224,32,43,.12),transparent 35%),var(--bg); color:var(--text); font:15px/1.55 system-ui,sans-serif; }
+    main { width:min(900px,calc(100% - 32px)); margin:auto; padding:32px 0 80px; }
+    header { border-bottom:1px solid var(--line); padding-bottom:22px; }
+    .eyebrow { color:var(--red); text-transform:uppercase; letter-spacing:.18em; font-weight:700; }
+    h1 { margin:.15em 0; font-size:clamp(42px,8vw,72px); line-height:.94; text-transform:uppercase; }
+    .muted { color:var(--muted); }
+    .status { margin:28px 0; padding:14px 16px; border:1px solid var(--line); background:var(--panel); }
+  .status.error { border-color:var(--red); }
+  .status.test { border-color:var(--gold); color:var(--gold); }
+    .board { border:1px solid var(--line); background:var(--panel); }
+    .row { display:grid; grid-template-columns:52px 1fr auto; gap:16px; align-items:center; padding:15px 18px; border-top:1px solid var(--line); }
+    .row:first-child { border-top:0; }
+    .rank,.points { font-variant-numeric:tabular-nums; font-weight:800; }
+    .rank { color:var(--gold); font-size:20px; }
+    .name { font-weight:700; overflow-wrap:anywhere; }
+    details { margin-top:5px; color:var(--muted); }
+    summary { cursor:pointer; }
+    ul { margin:.5em 0; padding-left:20px; }
+    footer { margin-top:32px; color:var(--muted); border-top:1px solid var(--line); padding-top:18px; }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="eyebrow">Rise Underground presents</div>
+    <h1>Leaders of the Leaderboards</h1>
+    <p class="muted">Points stack across every tracked Infinity Rising leaderboard. First place earns 10 points through tenth place earning 1 point.</p>
+  </header>
+  <div id="status" class="status">Loading leaderboard status…</div>
+  <section aria-labelledby="standings-title">
+    <h2 id="standings-title">Top 10</h2>
+    <div id="board" class="board" role="list"></div>
+  </section>
+  <footer>Unofficial community leaderboard. Not affiliated with Infinity Rising.</footer>
+</main>
+<script>
+const board = document.querySelector('#board');
+const statusBox = document.querySelector('#status');
+
+function parseCSV(text) {
+  const rows=[]; let row=[],field='',quoted=false;
+  for(let i=0;i<text.length;i++){
+    const c=text[i],n=text[i+1];
+    if(quoted){ if(c==='"'&&n==='"'){field+='"';i++;} else if(c==='"'){quoted=false;} else field+=c; }
+    else if(c==='"') quoted=true;
+    else if(c===','){row.push(field);field='';}
+    else if(c==='\n'||c==='\r'){if(field||row.length){row.push(field);rows.push(row);}field='';row=[];if(c==='\r'&&n==='\n')i++;}
+    else field+=c;
+  }
+  if(field||row.length){row.push(field);rows.push(row);}
+  return rows;
+}
+
+function placementsFromCSV(text){
+  const rows=parseCSV(text);
+  if(!rows.length) return [];
+  const header=rows.shift().map(x=>x.trim().toLowerCase());
+  const required=['player','board','rank','points'];
+  if(required.some(x=>!header.includes(x))) throw new Error('Leaderboard data has an invalid schema.');
+  const at=name=>header.indexOf(name);
+  return rows.filter(r=>r.some(Boolean)).map(r=>({player:r[at('player')],board:r[at('board')],rank:Number(r[at('rank')]),points:Number(r[at('points')])})).filter(p=>p.player&&p.board&&Number.isInteger(p.rank)&&p.rank>=1&&p.rank<=10&&p.points===11-p.rank);
+}
+
+function standings(placements){
+  const players=new Map();
+  for(const p of placements){
+    if(!players.has(p.player)) players.set(p.player,{name:p.player,points:0,placements:[]});
+    const player=players.get(p.player); player.points+=p.points; player.placements.push(p);
+  }
+  return [...players.values()].sort((a,b)=>b.points-a.points||b.placements.filter(x=>x.rank===1).length-a.placements.filter(x=>x.rank===1).length||a.name.localeCompare(b.name)).slice(0,10);
+}
+
+function render(items){
+  board.replaceChildren();
+  if(!items.length){const empty=document.createElement('p');empty.className='row muted';empty.textContent='No verified standings have been published yet.';board.append(empty);return;}
+  items.forEach((player,index)=>{
+    const row=document.createElement('article');row.className='row';row.setAttribute('role','listitem');
+    const rank=document.createElement('div');rank.className='rank';rank.textContent=String(index+1).padStart(2,'0');
+    const info=document.createElement('div');
+    const name=document.createElement('div');name.className='name';name.textContent=player.name;
+    const details=document.createElement('details');const summary=document.createElement('summary');summary.textContent=`${player.placements.length} scoring boards`;details.append(summary);
+    const list=document.createElement('ul');player.placements.sort((a,b)=>a.rank-b.rank||a.board.localeCompare(b.board)).forEach(p=>{const li=document.createElement('li');li.textContent=`#${p.rank} — ${p.board}`;list.append(li);});details.append(list);info.append(name,details);
+    const points=document.createElement('div');points.className='points';points.textContent=`${player.points} pts`;
+    row.append(rank,info,points);board.append(row);
+  });
+}
+
+Promise.all([fetch('./data/status.json',{cache:'no-store'}),fetch('./data/placements.csv',{cache:'no-store'})])
+  .then(async ([s,p])=>{if(!s.ok||!p.ok)throw new Error('Leaderboard files are unavailable.');const status=await s.json();const placements=placementsFromCSV(await p.text());statusBox.textContent=status.message||'Leaderboard loaded.';statusBox.classList.toggle('error',!['verified','test'].includes(status.state));statusBox.classList.toggle('test',status.state==='test');render(['verified','test'].includes(status.state)?standings(placements):[]);})
+  .catch(error=>{statusBox.textContent=error.message;statusBox.classList.add('error');render([]);});
+</script>
+</body>
+</html>
