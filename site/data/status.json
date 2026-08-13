@@ -1,0 +1,10 @@
+{
+  "state": "setup",
+  "message": "The automated scraper is being validated. No official standings have been published yet.",
+  "scraped_at": null,
+  "competition_start": null,
+  "competition_end": null,
+  "successful_boards": 0,
+  "expected_boards": 50
+}
+
