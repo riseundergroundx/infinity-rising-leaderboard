@@ -10,12 +10,6 @@
             "points": 10
           },
           {
-            "player": "cornbred#4053",
-            "board": "Aero Trails — Course 4",
-            "rank": 1,
-            "points": 10
-          },
-          {
             "player": "Keffertjes",
             "board": "Aero Trails — Course 5",
             "rank": 1,
@@ -37,5 +31,5 @@
       }
     }
   },
-  "updated_at": "2026-08-15T04:55:18.268342+00:00"
+  "updated_at": "2026-08-15T07:47:45.668191+00:00"
 }

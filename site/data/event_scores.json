@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T04:55:18.268342+00:00",
+  "generated_at": "2026-08-15T07:47:45.668191+00:00",
   "active_event_id": "weekend-sprint-2026-08-15",
   "events": [
     {
@@ -10,20 +10,6 @@
       "state": "live",
       "winner": null,
       "standings": [
-        {
-          "player": "cornbred#4053",
-          "event_score": 10,
-          "firsts": 1,
-          "placements": [
-            {
-              "round": "2026-08-15",
-              "board": "Aero Trails — Course 4",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 1
-        },
         {
           "player": "Keffertjes",
           "event_score": 10,
@@ -36,7 +22,7 @@
               "points": 10
             }
           ],
-          "position": 2
+          "position": 1
         },
         {
           "player": "LindaKnights#9411",
@@ -50,7 +36,7 @@
               "points": 10
             }
           ],
-          "position": 3
+          "position": 2
         },
         {
           "player": "Litschi#8065",
@@ -64,7 +50,7 @@
               "points": 10
             }
           ],
-          "position": 4
+          "position": 3
         },
         {
           "player": "MSPDriver#3454",
@@ -78,7 +64,7 @@
               "points": 10
             }
           ],
-          "position": 5
+          "position": 4
         }
       ],
       "rounds_recorded": [
