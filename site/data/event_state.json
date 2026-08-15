@@ -4,7 +4,7 @@
       "rounds": {
         "2026-08-15": [
           {
-            "player": "Litschi#8065",
+            "player": "Sip187#6613",
             "board": "Holocache",
             "rank": 1,
             "points": 10
@@ -16,16 +16,16 @@
             "points": 9
           },
           {
-            "player": "alcapMafia#2274",
+            "player": "punkda84#1555",
             "board": "Holocache",
             "rank": 3,
             "points": 8
           },
           {
-            "player": "Keffertjes",
-            "board": "Aero Trails — Course 5",
-            "rank": 1,
-            "points": 10
+            "player": "alcapMafia#2274",
+            "board": "Holocache",
+            "rank": 4,
+            "points": 7
           },
           {
             "player": "LindaKnights#9411",
@@ -43,5 +43,5 @@
       }
     }
   },
-  "updated_at": "2026-08-15T15:55:06.041959+00:00"
+  "updated_at": "2026-08-15T19:11:26.880468+00:00"
 }
