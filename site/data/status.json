@@ -1,9 +1,7 @@
 {
-  "state": "test",
-  "message": "TEST DATA — These standings verify the website only and are not official competition results.",
-  "scraped_at": "2026-08-12T20:25:19-07:00",
-  "competition_start": null,
-  "competition_end": null,
-  "successful_boards": 7,
+  "state": "live",
+  "message": "Weekend Sprint is live. Scores will appear after the first successful UTC daily scrape.",
+  "scraped_at": null,
+  "successful_boards": 0,
   "expected_boards": 50
 }

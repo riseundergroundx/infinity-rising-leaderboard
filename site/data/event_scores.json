@@ -1,0 +1,26 @@
+{
+  "generated_at": null,
+  "active_event_id": "weekend-sprint-2026-08-15",
+  "events": [
+    {
+      "id": "weekend-sprint-2026-08-15",
+      "name": "Weekend Sprint",
+      "start": "2026-08-15T00:00:00Z",
+      "end": "2026-08-16T00:00:00Z",
+      "state": "live",
+      "winner": null,
+      "standings": [],
+      "rounds_recorded": []
+    },
+    {
+      "id": "rise-week-2026-08-16",
+      "name": "Rise Week",
+      "start": "2026-08-16T00:00:00Z",
+      "end": "2026-08-23T00:00:00Z",
+      "state": "upcoming",
+      "winner": null,
+      "standings": [],
+      "rounds_recorded": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "timezone": "UTC",
+  "scoring": "Each UTC day is one round. Rank 1 earns 10 points through rank 10 earning 1 point on every tracked board.",
+  "events": [
+    {
+      "id": "weekend-sprint-2026-08-15",
+      "name": "Weekend Sprint",
+      "start": "2026-08-15T00:00:00Z",
+      "end": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": "rise-week-2026-08-16",
+      "name": "Rise Week",
+      "start": "2026-08-16T00:00:00Z",
+      "end": "2026-08-23T00:00:00Z"
+    }
+  ]
+}
+
