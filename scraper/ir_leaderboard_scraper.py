@@ -55,7 +55,7 @@ def wait_for_table(page: Page, previous: str | None = None) -> None:
         try:
             page.wait_for_function(
                 "old => (document.querySelector('table')?.innerText || '') !== old",
-                previous,
+                arg=previous,
                 timeout=8_000,
             )
         except PlaywrightTimeout:
