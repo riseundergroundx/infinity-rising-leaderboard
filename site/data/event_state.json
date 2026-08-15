@@ -4,28 +4,34 @@
       "rounds": {
         "2026-08-15": [
           {
-            "player": "Sip187#6613",
+            "player": "HappybuildingB#3416",
             "board": "Holocache",
             "rank": 1,
             "points": 10
           },
           {
-            "player": "Isaac_Chroner#1036",
+            "player": "Sip187#6613",
             "board": "Holocache",
             "rank": 2,
             "points": 9
           },
           {
-            "player": "punkda84#1555",
+            "player": "Isaac_Chroner#1036",
             "board": "Holocache",
             "rank": 3,
             "points": 8
           },
           {
-            "player": "alcapMafia#2274",
+            "player": "punkda84#1555",
             "board": "Holocache",
             "rank": 4,
             "points": 7
+          },
+          {
+            "player": "alcapMafia#2274",
+            "board": "Holocache",
+            "rank": 5,
+            "points": 6
           },
           {
             "player": "LindaKnights#9411",
@@ -34,8 +40,32 @@
             "points": 10
           },
           {
+            "player": "Lourde#2361",
+            "board": "Calido Yellow — Kazekura Shinobi-X",
+            "rank": 1,
+            "points": 10
+          },
+          {
             "player": "MSPDriver#3454",
             "board": "Calido Yellow — Valley Raceworx T3 2023",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Red — Kazekura Shinobi-X",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Purple — Bubblejett Super Phantom",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Purple — Kazekura Shinobi-X",
             "rank": 1,
             "points": 10
           }
@@ -43,5 +73,5 @@
       }
     }
   },
-  "updated_at": "2026-08-15T19:11:26.880468+00:00"
+  "updated_at": "2026-08-15T21:55:23.560244+00:00"
 }
