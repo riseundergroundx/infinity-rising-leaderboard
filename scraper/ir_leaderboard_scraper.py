@@ -52,16 +52,10 @@ def table_text(page: Page) -> str:
 def wait_for_table(page: Page, previous: str | None = None) -> None:
     page.wait_for_selector("table", timeout=20_000)
     if previous:
-        try:
-            page.wait_for_function(
-                "old => (document.querySelector('table')?.innerText || '') !== old",
-                arg=previous,
-                timeout=8_000,
-            )
-        except PlaywrightTimeout:
-            # Empty boards and unchanged results are legitimate. The delay still
-            # prevents reading immediately after a filter click.
-            pass
+        # Infinity Rising's CSP blocks Playwright's string-based
+        # wait_for_function evaluation. A render delay avoids unsafe-eval and
+        # still prevents an immediate read of the previous filter result.
+        page.wait_for_timeout(1_200)
     page.wait_for_timeout(900)
 
 
