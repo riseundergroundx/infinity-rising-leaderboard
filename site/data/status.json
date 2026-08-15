@@ -1,7 +1,7 @@
 {
   "state": "live",
-  "message": "Weekend Sprint is live. Scores will appear after the first successful UTC daily scrape.",
-  "scraped_at": null,
-  "successful_boards": 0,
+  "message": "Weekend Sprint is live. Updated 2026-08-15 03:26 UTC.",
+  "scraped_at": "2026-08-15T03:26:36.820993+00:00",
+  "successful_boards": 50,
   "expected_boards": 50
 }

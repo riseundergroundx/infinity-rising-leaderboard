@@ -1,5 +1,53 @@
 {
-  "events": {},
-  "updated_at": null
+  "events": {
+    "weekend-sprint-2026-08-15": {
+      "rounds": {
+        "2026-08-15": [
+          {
+            "player": "Litschi#8065",
+            "board": "Holocache",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "cornbred#4053",
+            "board": "Aero Trails — Course 4",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "MissBliss#6871",
+            "board": "Aero Trails — Course 4",
+            "rank": 2,
+            "points": 9
+          },
+          {
+            "player": "Keffertjes",
+            "board": "Aero Trails — Course 5",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "LindaKnights#9411",
+            "board": "Aero Trails — Course 7",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "MissBliss#6871",
+            "board": "Aero Trails — Course 7",
+            "rank": 2,
+            "points": 9
+          },
+          {
+            "player": "Ray.Racer-KG#2740",
+            "board": "Calido Purple — Valley Raceworx T3 2023",
+            "rank": 1,
+            "points": 10
+          }
+        ]
+      }
+    }
+  },
+  "updated_at": "2026-08-15T03:26:36.820993+00:00"
 }
-
