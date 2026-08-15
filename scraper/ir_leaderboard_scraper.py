@@ -67,13 +67,19 @@ def wait_for_table(page: Page, previous: str | None = None) -> None:
 
 def select_filter(page: Page, group: str, option: str) -> None:
     previous = table_text(page)
-    heading = page.get_by_text(group, exact=True).first
-    section = heading.locator("xpath=ancestor::*[self::div or self::section][1]")
+    # Start from the option itself. The first ancestor containing a Reset
+    # control is the complete filter group; the heading's nearest div is only
+    # the heading row on the current Infinity Rising layout.
+    target = page.get_by_text(option, exact=True).first
+    target.wait_for(state="visible", timeout=12_000)
+    section = target.locator(
+        "xpath=ancestor::*[self::div or self::section][.//*[normalize-space(text())='Reset']][1]"
+    )
     try:
         section.get_by_text("Reset", exact=True).first.click(timeout=3_000)
     except PlaywrightTimeout:
         pass
-    section.get_by_text(option, exact=True).first.click(timeout=8_000)
+    target.click(timeout=8_000)
     wait_for_table(page, previous)
 
 
