@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:47:45.668191+00:00",
+  "generated_at": "2026-08-15T09:59:20.477980+00:00",
   "active_event_id": "weekend-sprint-2026-08-15",
   "events": [
     {
@@ -65,6 +65,34 @@
             }
           ],
           "position": 4
+        },
+        {
+          "player": "Isaac_Chroner#1036",
+          "event_score": 9,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-15",
+              "board": "Holocache",
+              "rank": 2,
+              "points": 9
+            }
+          ],
+          "position": 5
+        },
+        {
+          "player": "alcapMafia#2274",
+          "event_score": 8,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-15",
+              "board": "Holocache",
+              "rank": 3,
+              "points": 8
+            }
+          ],
+          "position": 6
         }
       ],
       "rounds_recorded": [

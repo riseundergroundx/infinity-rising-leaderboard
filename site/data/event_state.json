@@ -10,6 +10,18 @@
             "points": 10
           },
           {
+            "player": "Isaac_Chroner#1036",
+            "board": "Holocache",
+            "rank": 2,
+            "points": 9
+          },
+          {
+            "player": "alcapMafia#2274",
+            "board": "Holocache",
+            "rank": 3,
+            "points": 8
+          },
+          {
             "player": "Keffertjes",
             "board": "Aero Trails — Course 5",
             "rank": 1,
@@ -31,5 +43,5 @@
       }
     }
   },
-  "updated_at": "2026-08-15T07:47:45.668191+00:00"
+  "updated_at": "2026-08-15T09:59:20.477980+00:00"
 }
