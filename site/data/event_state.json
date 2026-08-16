@@ -76,7 +76,7 @@
       "rounds": {
         "2026-08-16": [
           {
-            "player": "punkda84#1555",
+            "player": "Jerz_11#7908",
             "board": "Holocache",
             "rank": 1,
             "points": 10
@@ -86,18 +86,6 @@
             "board": "Holocache",
             "rank": 2,
             "points": 9
-          },
-          {
-            "player": "Jerz_11#7908",
-            "board": "Holocache",
-            "rank": 3,
-            "points": 8
-          },
-          {
-            "player": "Sip187#6613",
-            "board": "Holocache",
-            "rank": 4,
-            "points": 7
           },
           {
             "player": "CornyB_Knights#3952",
@@ -136,12 +124,6 @@
             "points": 10
           },
           {
-            "player": "MSPDriver#3454",
-            "board": "Calido Yellow — Valley Raceworx T3 2023",
-            "rank": 1,
-            "points": 10
-          },
-          {
             "player": "Lourde#2361",
             "board": "Calido Red — Kazekura Shinobi-X",
             "rank": 1,
@@ -169,5 +151,5 @@
       }
     }
   },
-  "updated_at": "2026-08-16T15:57:19.832498+00:00"
+  "updated_at": "2026-08-16T19:11:06.798656+00:00"
 }

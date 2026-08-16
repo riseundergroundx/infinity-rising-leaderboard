@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T15:57:19.832498+00:00",
+  "generated_at": "2026-08-16T19:11:06.798656+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -206,26 +206,6 @@
           "position": 2
         },
         {
-          "player": "punkda84#1555",
-          "event_score": 20,
-          "firsts": 2,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Holocache",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-16",
-              "board": "Aero Trails — Course 5",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 3
-        },
-        {
           "player": "Faux_Hubris#3960",
           "event_score": 19,
           "firsts": 1,
@@ -243,7 +223,7 @@
               "points": 10
             }
           ],
-          "position": 4
+          "position": 3
         },
         {
           "player": "HappybuildingB#3416",
@@ -263,49 +243,35 @@
               "points": 10
             }
           ],
-          "position": 5
+          "position": 4
         },
         {
-          "player": "MSPDriver#3454",
+          "player": "Jerz_11#7908",
           "event_score": 10,
           "firsts": 1,
           "placements": [
             {
               "round": "2026-08-16",
-              "board": "Calido Yellow — Valley Raceworx T3 2023",
+              "board": "Holocache",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 5
+        },
+        {
+          "player": "punkda84#1555",
+          "event_score": 10,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Aero Trails — Course 5",
               "rank": 1,
               "points": 10
             }
           ],
           "position": 6
-        },
-        {
-          "player": "Jerz_11#7908",
-          "event_score": 8,
-          "firsts": 0,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Holocache",
-              "rank": 3,
-              "points": 8
-            }
-          ],
-          "position": 7
-        },
-        {
-          "player": "Sip187#6613",
-          "event_score": 7,
-          "firsts": 0,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Holocache",
-              "rank": 4,
-              "points": 7
-            }
-          ],
-          "position": 8
         }
       ],
       "rounds_recorded": [
