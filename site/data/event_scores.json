@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T10:00:45.382044+00:00",
+  "generated_at": "2026-08-16T13:48:17.181049+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -226,6 +226,26 @@
           "position": 3
         },
         {
+          "player": "HappybuildingB#3416",
+          "event_score": 19,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Holocache",
+              "rank": 2,
+              "points": 9
+            },
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Valley Raceworx T1-B",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 4
+        },
+        {
           "player": "MSPDriver#3454",
           "event_score": 10,
           "firsts": 1,
@@ -237,7 +257,7 @@
               "points": 10
             }
           ],
-          "position": 4
+          "position": 5
         },
         {
           "player": "punkda84#1555",
@@ -251,24 +271,10 @@
               "points": 10
             }
           ],
-          "position": 5
-        },
-        {
-          "player": "HappybuildingB#3416",
-          "event_score": 9,
-          "firsts": 0,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Holocache",
-              "rank": 2,
-              "points": 9
-            }
-          ],
           "position": 6
         },
         {
-          "player": "Sip187#6613",
+          "player": "Jerz_11#7908",
           "event_score": 8,
           "firsts": 0,
           "placements": [
@@ -282,7 +288,7 @@
           "position": 7
         },
         {
-          "player": "Jerz_11#7908",
+          "player": "Sip187#6613",
           "event_score": 7,
           "firsts": 0,
           "placements": [

@@ -88,13 +88,13 @@
             "points": 9
           },
           {
-            "player": "Sip187#6613",
+            "player": "Jerz_11#7908",
             "board": "Holocache",
             "rank": 3,
             "points": 8
           },
           {
-            "player": "Jerz_11#7908",
+            "player": "Sip187#6613",
             "board": "Holocache",
             "rank": 4,
             "points": 7
@@ -120,6 +120,12 @@
           {
             "player": "Faux_Hubris#3960",
             "board": "Calido Yellow — Valkyrie F9-R",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "HappybuildingB#3416",
+            "board": "Calido Yellow — Valley Raceworx T1-B",
             "rank": 1,
             "points": 10
           },
@@ -157,5 +163,5 @@
       }
     }
   },
-  "updated_at": "2026-08-16T10:00:45.382044+00:00"
+  "updated_at": "2026-08-16T13:48:17.181049+00:00"
 }
