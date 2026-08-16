@@ -82,22 +82,22 @@
             "points": 10
           },
           {
-            "player": "HappybuildingB#3416",
-            "board": "Holocache",
-            "rank": 2,
-            "points": 9
-          },
-          {
             "player": "CornyB_Knights#3952",
             "board": "Aero Trails — Course 1",
             "rank": 1,
             "points": 10
           },
           {
-            "player": "punkda84#1555",
+            "player": "Witcher#3465",
             "board": "Aero Trails — Course 5",
             "rank": 1,
             "points": 10
+          },
+          {
+            "player": "punkda84#1555",
+            "board": "Aero Trails — Course 5",
+            "rank": 2,
+            "points": 9
           },
           {
             "player": "Lourde#2361",
@@ -124,20 +124,8 @@
             "points": 10
           },
           {
-            "player": "Lourde#2361",
-            "board": "Calido Red — Kazekura Shinobi-X",
-            "rank": 1,
-            "points": 10
-          },
-          {
             "player": "CornyB_Knights#3952",
             "board": "Calido Purple — Bubblejett Sprinter OG Custom 2022",
-            "rank": 1,
-            "points": 10
-          },
-          {
-            "player": "Lourde#2361",
-            "board": "Calido Purple — Bubblejett Super Phantom",
             "rank": 1,
             "points": 10
           },
@@ -151,5 +139,5 @@
       }
     }
   },
-  "updated_at": "2026-08-16T19:11:06.798656+00:00"
+  "updated_at": "2026-08-16T21:54:05.216343+00:00"
 }
