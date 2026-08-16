@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:30:43.133185+00:00",
+  "generated_at": "2026-08-16T07:50:05.013033+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -186,6 +186,46 @@
           "position": 1
         },
         {
+          "player": "CornyB_Knights#3952",
+          "event_score": 20,
+          "firsts": 2,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Aero Trails — Course 1",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-16",
+              "board": "Calido Purple — Bubblejett Sprinter OG Custom 2022",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 2
+        },
+        {
+          "player": "Faux_Hubris#3960",
+          "event_score": 19,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Kazekura Shinobi-X",
+              "rank": 2,
+              "points": 9
+            },
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Valkyrie F9-R",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 3
+        },
+        {
           "player": "MSPDriver#3454",
           "event_score": 10,
           "firsts": 1,
@@ -197,7 +237,7 @@
               "points": 10
             }
           ],
-          "position": 2
+          "position": 4
         },
         {
           "player": "punkda84#1555",
@@ -211,7 +251,7 @@
               "points": 10
             }
           ],
-          "position": 3
+          "position": 5
         },
         {
           "player": "HappybuildingB#3416",
@@ -225,7 +265,7 @@
               "points": 9
             }
           ],
-          "position": 4
+          "position": 6
         },
         {
           "player": "Sip187#6613",
@@ -239,7 +279,7 @@
               "points": 8
             }
           ],
-          "position": 5
+          "position": 7
         },
         {
           "player": "Isaac_Chroner#1036",
@@ -253,7 +293,7 @@
               "points": 7
             }
           ],
-          "position": 6
+          "position": 8
         },
         {
           "player": "alcapMafia#2274",
@@ -267,7 +307,7 @@
               "points": 6
             }
           ],
-          "position": 7
+          "position": 9
         }
       ],
       "rounds_recorded": [

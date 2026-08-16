@@ -106,8 +106,26 @@
             "points": 6
           },
           {
+            "player": "CornyB_Knights#3952",
+            "board": "Aero Trails — Course 1",
+            "rank": 1,
+            "points": 10
+          },
+          {
             "player": "Lourde#2361",
             "board": "Calido Yellow — Kazekura Shinobi-X",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Faux_Hubris#3960",
+            "board": "Calido Yellow — Kazekura Shinobi-X",
+            "rank": 2,
+            "points": 9
+          },
+          {
+            "player": "Faux_Hubris#3960",
+            "board": "Calido Yellow — Valkyrie F9-R",
             "rank": 1,
             "points": 10
           },
@@ -120,6 +138,12 @@
           {
             "player": "Lourde#2361",
             "board": "Calido Red — Kazekura Shinobi-X",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "CornyB_Knights#3952",
+            "board": "Calido Purple — Bubblejett Sprinter OG Custom 2022",
             "rank": 1,
             "points": 10
           },
@@ -139,5 +163,5 @@
       }
     }
   },
-  "updated_at": "2026-08-16T03:30:43.133185+00:00"
+  "updated_at": "2026-08-16T07:50:05.013033+00:00"
 }
