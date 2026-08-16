@@ -106,6 +106,12 @@
             "points": 10
           },
           {
+            "player": "punkda84#1555",
+            "board": "Aero Trails — Course 5",
+            "rank": 1,
+            "points": 10
+          },
+          {
             "player": "Lourde#2361",
             "board": "Calido Yellow — Kazekura Shinobi-X",
             "rank": 1,
@@ -163,5 +169,5 @@
       }
     }
   },
-  "updated_at": "2026-08-16T13:48:17.181049+00:00"
+  "updated_at": "2026-08-16T15:57:19.832498+00:00"
 }
