@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-15T21:55:23.560244+00:00",
-  "active_event_id": "weekend-sprint-2026-08-15",
+  "generated_at": "2026-08-16T03:15:47.541274+00:00",
+  "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
       "id": "weekend-sprint-2026-08-15",
       "name": "Weekend Sprint",
       "start": "2026-08-15T00:00:00Z",
       "end": "2026-08-16T00:00:00Z",
-      "state": "live",
-      "winner": null,
+      "state": "complete",
+      "winner": "Lourde#2361",
       "standings": [
         {
           "player": "Lourde#2361",
@@ -150,10 +150,129 @@
       "name": "Rise Week",
       "start": "2026-08-16T00:00:00Z",
       "end": "2026-08-23T00:00:00Z",
-      "state": "upcoming",
+      "state": "live",
       "winner": null,
-      "standings": [],
-      "rounds_recorded": []
+      "standings": [
+        {
+          "player": "Lourde#2361",
+          "event_score": 40,
+          "firsts": 4,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Kazekura Shinobi-X",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-16",
+              "board": "Calido Red — Kazekura Shinobi-X",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-16",
+              "board": "Calido Purple — Bubblejett Super Phantom",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-16",
+              "board": "Calido Purple — Kazekura Shinobi-X",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 1
+        },
+        {
+          "player": "MSPDriver#3454",
+          "event_score": 10,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Valley Raceworx T3 2023",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 2
+        },
+        {
+          "player": "punkda84#1555",
+          "event_score": 10,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Holocache",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 3
+        },
+        {
+          "player": "HappybuildingB#3416",
+          "event_score": 9,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Holocache",
+              "rank": 2,
+              "points": 9
+            }
+          ],
+          "position": 4
+        },
+        {
+          "player": "Sip187#6613",
+          "event_score": 8,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Holocache",
+              "rank": 3,
+              "points": 8
+            }
+          ],
+          "position": 5
+        },
+        {
+          "player": "Isaac_Chroner#1036",
+          "event_score": 7,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Holocache",
+              "rank": 4,
+              "points": 7
+            }
+          ],
+          "position": 6
+        },
+        {
+          "player": "alcapMafia#2274",
+          "event_score": 6,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Holocache",
+              "rank": 5,
+              "points": 6
+            }
+          ],
+          "position": 7
+        }
+      ],
+      "rounds_recorded": [
+        "2026-08-16"
+      ]
     }
   ]
 }

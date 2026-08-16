@@ -71,7 +71,73 @@
           }
         ]
       }
+    },
+    "rise-week-2026-08-16": {
+      "rounds": {
+        "2026-08-16": [
+          {
+            "player": "punkda84#1555",
+            "board": "Holocache",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "HappybuildingB#3416",
+            "board": "Holocache",
+            "rank": 2,
+            "points": 9
+          },
+          {
+            "player": "Sip187#6613",
+            "board": "Holocache",
+            "rank": 3,
+            "points": 8
+          },
+          {
+            "player": "Isaac_Chroner#1036",
+            "board": "Holocache",
+            "rank": 4,
+            "points": 7
+          },
+          {
+            "player": "alcapMafia#2274",
+            "board": "Holocache",
+            "rank": 5,
+            "points": 6
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Yellow — Kazekura Shinobi-X",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "MSPDriver#3454",
+            "board": "Calido Yellow — Valley Raceworx T3 2023",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Red — Kazekura Shinobi-X",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Purple — Bubblejett Super Phantom",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Purple — Kazekura Shinobi-X",
+            "rank": 1,
+            "points": 10
+          }
+        ]
+      }
     }
   },
-  "updated_at": "2026-08-15T21:55:23.560244+00:00"
+  "updated_at": "2026-08-16T03:15:47.541274+00:00"
 }
