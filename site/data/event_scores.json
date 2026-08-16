@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:50:05.013033+00:00",
+  "generated_at": "2026-08-16T10:00:45.382044+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -282,7 +282,7 @@
           "position": 7
         },
         {
-          "player": "Isaac_Chroner#1036",
+          "player": "Jerz_11#7908",
           "event_score": 7,
           "firsts": 0,
           "placements": [
@@ -294,20 +294,6 @@
             }
           ],
           "position": 8
-        },
-        {
-          "player": "alcapMafia#2274",
-          "event_score": 6,
-          "firsts": 0,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Holocache",
-              "rank": 5,
-              "points": 6
-            }
-          ],
-          "position": 9
         }
       ],
       "rounds_recorded": [
