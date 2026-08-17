@@ -135,9 +135,95 @@
             "rank": 1,
             "points": 10
           }
+        ],
+        "2026-08-17": [
+          {
+            "player": "Jerz_11#7908",
+            "board": "Holocache",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "CornyB_Knights#3952",
+            "board": "Aero Trails — Course 1",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Aero Trails — Course 2",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Witcher#3465",
+            "board": "Aero Trails — Course 5",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "punkda84#1555",
+            "board": "Aero Trails — Course 5",
+            "rank": 2,
+            "points": 9
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Yellow — Kazekura Shinobi-X",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Faux_Hubris#3960",
+            "board": "Calido Yellow — Kazekura Shinobi-X",
+            "rank": 2,
+            "points": 9
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Faux_Hubris#3960",
+            "board": "Calido Yellow — Valkyrie F9-R",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "HappybuildingB#3416",
+            "board": "Calido Yellow — Valley Raceworx T1-B",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "MSPDriver#3454",
+            "board": "Calido Yellow — Valley Raceworx T3 2023",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Red — Kazekura Shinobi-X",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "CornyB_Knights#3952",
+            "board": "Calido Purple — Bubblejett Sprinter OG Custom 2022",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Lourde#2361",
+            "board": "Calido Purple — Kazekura Shinobi-X",
+            "rank": 1,
+            "points": 10
+          }
         ]
       }
     }
   },
-  "updated_at": "2026-08-16T21:54:05.216343+00:00"
+  "updated_at": "2026-08-17T03:16:20.777546+00:00"
 }

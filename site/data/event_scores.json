@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:54:05.216343+00:00",
+  "generated_at": "2026-08-17T03:16:20.777546+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -154,29 +154,9 @@
       "winner": null,
       "standings": [
         {
-          "player": "CornyB_Knights#3952",
-          "event_score": 20,
-          "firsts": 2,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Aero Trails — Course 1",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-16",
-              "board": "Calido Purple — Bubblejett Sprinter OG Custom 2022",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 1
-        },
-        {
           "player": "Lourde#2361",
-          "event_score": 20,
-          "firsts": 2,
+          "event_score": 70,
+          "firsts": 7,
           "placements": [
             {
               "round": "2026-08-16",
@@ -189,14 +169,76 @@
               "board": "Calido Purple — Kazekura Shinobi-X",
               "rank": 1,
               "points": 10
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 2",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Calido Yellow — Kazekura Shinobi-X",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Calido Red — Kazekura Shinobi-X",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Calido Purple — Kazekura Shinobi-X",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 1
+        },
+        {
+          "player": "CornyB_Knights#3952",
+          "event_score": 40,
+          "firsts": 4,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Aero Trails — Course 1",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-16",
+              "board": "Calido Purple — Bubblejett Sprinter OG Custom 2022",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 1",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Calido Purple — Bubblejett Sprinter OG Custom 2022",
+              "rank": 1,
+              "points": 10
             }
           ],
           "position": 2
         },
         {
           "player": "Faux_Hubris#3960",
-          "event_score": 19,
-          "firsts": 1,
+          "event_score": 38,
+          "firsts": 2,
           "placements": [
             {
               "round": "2026-08-16",
@@ -209,17 +251,35 @@
               "board": "Calido Yellow — Valkyrie F9-R",
               "rank": 1,
               "points": 10
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Calido Yellow — Kazekura Shinobi-X",
+              "rank": 2,
+              "points": 9
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Calido Yellow — Valkyrie F9-R",
+              "rank": 1,
+              "points": 10
             }
           ],
           "position": 3
         },
         {
           "player": "HappybuildingB#3416",
-          "event_score": 10,
-          "firsts": 1,
+          "event_score": 20,
+          "firsts": 2,
           "placements": [
             {
               "round": "2026-08-16",
+              "board": "Calido Yellow — Valley Raceworx T1-B",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-17",
               "board": "Calido Yellow — Valley Raceworx T1-B",
               "rank": 1,
               "points": 10
@@ -229,11 +289,17 @@
         },
         {
           "player": "Jerz_11#7908",
-          "event_score": 10,
-          "firsts": 1,
+          "event_score": 20,
+          "firsts": 2,
           "placements": [
             {
               "round": "2026-08-16",
+              "board": "Holocache",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-17",
               "board": "Holocache",
               "rank": 1,
               "points": 10
@@ -243,11 +309,17 @@
         },
         {
           "player": "Witcher#3465",
-          "event_score": 10,
-          "firsts": 1,
+          "event_score": 20,
+          "firsts": 2,
           "placements": [
             {
               "round": "2026-08-16",
+              "board": "Aero Trails — Course 5",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-17",
               "board": "Aero Trails — Course 5",
               "rank": 1,
               "points": 10
@@ -257,7 +329,7 @@
         },
         {
           "player": "punkda84#1555",
-          "event_score": 9,
+          "event_score": 18,
           "firsts": 0,
           "placements": [
             {
@@ -265,13 +337,34 @@
               "board": "Aero Trails — Course 5",
               "rank": 2,
               "points": 9
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
             }
           ],
           "position": 7
+        },
+        {
+          "player": "MSPDriver#3454",
+          "event_score": 10,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Calido Yellow — Valley Raceworx T3 2023",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 8
         }
       ],
       "rounds_recorded": [
-        "2026-08-16"
+        "2026-08-16",
+        "2026-08-17"
       ]
     }
   ]
