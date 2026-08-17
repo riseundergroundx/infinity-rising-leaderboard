@@ -162,6 +162,12 @@
             "points": 9
           },
           {
+            "player": "Carsten#1920",
+            "board": "Aero Trails — Course 7",
+            "rank": 1,
+            "points": 10
+          },
+          {
             "player": "Lourde#2361",
             "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
             "rank": 1,
@@ -183,5 +189,5 @@
       }
     }
   },
-  "updated_at": "2026-08-17T14:02:58.972037+00:00"
+  "updated_at": "2026-08-17T19:45:51.825370+00:00"
 }
