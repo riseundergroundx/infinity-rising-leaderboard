@@ -162,32 +162,20 @@
             "points": 10
           },
           {
-            "player": "punkda84#1555",
+            "player": "Eric_EH444#8644",
             "board": "Aero Trails — Course 5",
             "rank": 2,
             "points": 9
           },
           {
-            "player": "Lourde#2361",
-            "board": "Calido Yellow — Kazekura Shinobi-X",
-            "rank": 1,
-            "points": 10
-          },
-          {
-            "player": "Faux_Hubris#3960",
-            "board": "Calido Yellow — Kazekura Shinobi-X",
-            "rank": 2,
-            "points": 9
+            "player": "punkda84#1555",
+            "board": "Aero Trails — Course 5",
+            "rank": 3,
+            "points": 8
           },
           {
             "player": "Lourde#2361",
             "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
-            "rank": 1,
-            "points": 10
-          },
-          {
-            "player": "Faux_Hubris#3960",
-            "board": "Calido Yellow — Valkyrie F9-R",
             "rank": 1,
             "points": 10
           },
@@ -208,22 +196,10 @@
             "board": "Calido Red — Kazekura Shinobi-X",
             "rank": 1,
             "points": 10
-          },
-          {
-            "player": "CornyB_Knights#3952",
-            "board": "Calido Purple — Bubblejett Sprinter OG Custom 2022",
-            "rank": 1,
-            "points": 10
-          },
-          {
-            "player": "Lourde#2361",
-            "board": "Calido Purple — Kazekura Shinobi-X",
-            "rank": 1,
-            "points": 10
           }
         ]
       }
     }
   },
-  "updated_at": "2026-08-17T03:31:15.425750+00:00"
+  "updated_at": "2026-08-17T08:26:35.402419+00:00"
 }

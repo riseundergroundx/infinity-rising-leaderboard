@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:31:15.425750+00:00",
+  "generated_at": "2026-08-17T08:26:35.402419+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -155,8 +155,8 @@
       "standings": [
         {
           "player": "Lourde#2361",
-          "event_score": 70,
-          "firsts": 7,
+          "event_score": 50,
+          "firsts": 5,
           "placements": [
             {
               "round": "2026-08-16",
@@ -178,12 +178,6 @@
             },
             {
               "round": "2026-08-17",
-              "board": "Calido Yellow — Kazekura Shinobi-X",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-17",
               "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
               "rank": 1,
               "points": 10
@@ -193,20 +187,14 @@
               "board": "Calido Red — Kazekura Shinobi-X",
               "rank": 1,
               "points": 10
-            },
-            {
-              "round": "2026-08-17",
-              "board": "Calido Purple — Kazekura Shinobi-X",
-              "rank": 1,
-              "points": 10
             }
           ],
           "position": 1
         },
         {
           "player": "CornyB_Knights#3952",
-          "event_score": 40,
-          "firsts": 4,
+          "event_score": 30,
+          "firsts": 3,
           "placements": [
             {
               "round": "2026-08-16",
@@ -223,49 +211,11 @@
             {
               "round": "2026-08-17",
               "board": "Aero Trails — Course 1",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-17",
-              "board": "Calido Purple — Bubblejett Sprinter OG Custom 2022",
               "rank": 1,
               "points": 10
             }
           ],
           "position": 2
-        },
-        {
-          "player": "Faux_Hubris#3960",
-          "event_score": 38,
-          "firsts": 2,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Calido Yellow — Kazekura Shinobi-X",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-16",
-              "board": "Calido Yellow — Valkyrie F9-R",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-17",
-              "board": "Calido Yellow — Kazekura Shinobi-X",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-17",
-              "board": "Calido Yellow — Valkyrie F9-R",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 3
         },
         {
           "player": "HappybuildingB#3416",
@@ -285,7 +235,7 @@
               "points": 10
             }
           ],
-          "position": 4
+          "position": 3
         },
         {
           "player": "Jerz_11#7908",
@@ -305,7 +255,7 @@
               "points": 10
             }
           ],
-          "position": 5
+          "position": 4
         },
         {
           "player": "Witcher#3465",
@@ -325,11 +275,31 @@
               "points": 10
             }
           ],
+          "position": 5
+        },
+        {
+          "player": "Faux_Hubris#3960",
+          "event_score": 19,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Kazekura Shinobi-X",
+              "rank": 2,
+              "points": 9
+            },
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Valkyrie F9-R",
+              "rank": 1,
+              "points": 10
+            }
+          ],
           "position": 6
         },
         {
           "player": "punkda84#1555",
-          "event_score": 18,
+          "event_score": 17,
           "firsts": 0,
           "placements": [
             {
@@ -341,8 +311,8 @@
             {
               "round": "2026-08-17",
               "board": "Aero Trails — Course 5",
-              "rank": 2,
-              "points": 9
+              "rank": 3,
+              "points": 8
             }
           ],
           "position": 7
@@ -360,6 +330,20 @@
             }
           ],
           "position": 8
+        },
+        {
+          "player": "Eric_EH444#8644",
+          "event_score": 9,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
+            }
+          ],
+          "position": 9
         }
       ],
       "rounds_recorded": [
