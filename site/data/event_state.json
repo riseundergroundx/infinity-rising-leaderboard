@@ -144,6 +144,12 @@
             "points": 10
           },
           {
+            "player": "Tony_The_Brick#8725",
+            "board": "Aero Trails — Course 1",
+            "rank": 2,
+            "points": 9
+          },
+          {
             "player": "Lourde#2361",
             "board": "Aero Trails — Course 2",
             "rank": 1,
@@ -156,10 +162,16 @@
             "points": 10
           },
           {
-            "player": "Eric_EH444#8644",
+            "player": "Mr.Kalns#1871",
             "board": "Aero Trails — Course 5",
             "rank": 2,
             "points": 9
+          },
+          {
+            "player": "Eric_EH444#8644",
+            "board": "Aero Trails — Course 5",
+            "rank": 3,
+            "points": 8
           },
           {
             "player": "Carsten#1920",
@@ -189,5 +201,5 @@
       }
     }
   },
-  "updated_at": "2026-08-17T19:45:51.825370+00:00"
+  "updated_at": "2026-08-17T22:00:31.420552+00:00"
 }

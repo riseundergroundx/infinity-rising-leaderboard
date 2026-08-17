@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:45:51.825370+00:00",
+  "generated_at": "2026-08-17T22:00:31.420552+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -314,7 +314,7 @@
           "position": 8
         },
         {
-          "player": "Eric_EH444#8644",
+          "player": "Mr.Kalns#1871",
           "event_score": 9,
           "firsts": 0,
           "placements": [
@@ -340,6 +340,34 @@
             }
           ],
           "position": 10
+        },
+        {
+          "player": "Tony_The_Brick#8725",
+          "event_score": 9,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 1",
+              "rank": 2,
+              "points": 9
+            }
+          ],
+          "position": 11
+        },
+        {
+          "player": "Eric_EH444#8644",
+          "event_score": 8,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 5",
+              "rank": 3,
+              "points": 8
+            }
+          ],
+          "position": 12
         }
       ],
       "rounds_recorded": [
