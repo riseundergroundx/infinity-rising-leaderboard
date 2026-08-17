@@ -162,20 +162,8 @@
             "points": 9
           },
           {
-            "player": "punkda84#1555",
-            "board": "Aero Trails — Course 5",
-            "rank": 3,
-            "points": 8
-          },
-          {
             "player": "Lourde#2361",
             "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
-            "rank": 1,
-            "points": 10
-          },
-          {
-            "player": "HappybuildingB#3416",
-            "board": "Calido Yellow — Valley Raceworx T1-B",
             "rank": 1,
             "points": 10
           },
@@ -195,5 +183,5 @@
       }
     }
   },
-  "updated_at": "2026-08-17T10:53:06.003557+00:00"
+  "updated_at": "2026-08-17T14:02:58.972037+00:00"
 }

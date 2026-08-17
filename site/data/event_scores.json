@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:53:06.003557+00:00",
+  "generated_at": "2026-08-17T14:02:58.972037+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -218,26 +218,6 @@
           "position": 2
         },
         {
-          "player": "HappybuildingB#3416",
-          "event_score": 20,
-          "firsts": 2,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Calido Yellow — Valley Raceworx T1-B",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-17",
-              "board": "Calido Yellow — Valley Raceworx T1-B",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 3
-        },
-        {
           "player": "Witcher#3465",
           "event_score": 20,
           "firsts": 2,
@@ -255,7 +235,7 @@
               "points": 10
             }
           ],
-          "position": 4
+          "position": 3
         },
         {
           "player": "Faux_Hubris#3960",
@@ -275,27 +255,21 @@
               "points": 10
             }
           ],
-          "position": 5
+          "position": 4
         },
         {
-          "player": "punkda84#1555",
-          "event_score": 17,
-          "firsts": 0,
+          "player": "HappybuildingB#3416",
+          "event_score": 10,
+          "firsts": 1,
           "placements": [
             {
               "round": "2026-08-16",
-              "board": "Aero Trails — Course 5",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-17",
-              "board": "Aero Trails — Course 5",
-              "rank": 3,
-              "points": 8
+              "board": "Calido Yellow — Valley Raceworx T1-B",
+              "rank": 1,
+              "points": 10
             }
           ],
-          "position": 6
+          "position": 5
         },
         {
           "player": "Jerz_11#7908",
@@ -309,7 +283,7 @@
               "points": 10
             }
           ],
-          "position": 7
+          "position": 6
         },
         {
           "player": "MSPDriver#3454",
@@ -323,7 +297,7 @@
               "points": 10
             }
           ],
-          "position": 8
+          "position": 7
         },
         {
           "player": "Eric_EH444#8644",
@@ -332,6 +306,20 @@
           "placements": [
             {
               "round": "2026-08-17",
+              "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
+            }
+          ],
+          "position": 8
+        },
+        {
+          "player": "punkda84#1555",
+          "event_score": 9,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-16",
               "board": "Aero Trails — Course 5",
               "rank": 2,
               "points": 9
