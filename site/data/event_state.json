@@ -206,22 +206,10 @@
             "points": 10
           },
           {
-            "player": "Tony_The_Brick#8725",
-            "board": "Aero Trails — Course 1",
-            "rank": 1,
-            "points": 10
-          },
-          {
             "player": "Witcher#3465",
             "board": "Aero Trails — Course 5",
             "rank": 1,
             "points": 10
-          },
-          {
-            "player": "Mr.Kalns#1871",
-            "board": "Aero Trails — Course 5",
-            "rank": 2,
-            "points": 9
           },
           {
             "player": "LindaKnights#9411",
@@ -251,5 +239,5 @@
       }
     }
   },
-  "updated_at": "2026-08-18T19:42:14.693647+00:00"
+  "updated_at": "2026-08-18T21:58:00.086822+00:00"
 }

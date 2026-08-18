@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:42:14.693647+00:00",
+  "generated_at": "2026-08-18T21:58:00.086822+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -296,46 +296,6 @@
           "position": 5
         },
         {
-          "player": "Tony_The_Brick#8725",
-          "event_score": 19,
-          "firsts": 1,
-          "placements": [
-            {
-              "round": "2026-08-17",
-              "board": "Aero Trails — Course 1",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-18",
-              "board": "Aero Trails — Course 1",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 6
-        },
-        {
-          "player": "Mr.Kalns#1871",
-          "event_score": 18,
-          "firsts": 0,
-          "placements": [
-            {
-              "round": "2026-08-17",
-              "board": "Aero Trails — Course 5",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-18",
-              "board": "Aero Trails — Course 5",
-              "rank": 2,
-              "points": 9
-            }
-          ],
-          "position": 7
-        },
-        {
           "player": "Carsten#1920",
           "event_score": 10,
           "firsts": 1,
@@ -347,7 +307,7 @@
               "points": 10
             }
           ],
-          "position": 8
+          "position": 6
         },
         {
           "player": "HappybuildingB#3416",
@@ -361,7 +321,7 @@
               "points": 10
             }
           ],
-          "position": 9
+          "position": 7
         },
         {
           "player": "Jerz_11#7908",
@@ -375,7 +335,7 @@
               "points": 10
             }
           ],
-          "position": 10
+          "position": 8
         },
         {
           "player": "LindaKnights#9411",
@@ -389,7 +349,7 @@
               "points": 10
             }
           ],
-          "position": 11
+          "position": 9
         },
         {
           "player": "MSPDriver#3454",
@@ -403,7 +363,21 @@
               "points": 10
             }
           ],
-          "position": 12
+          "position": 10
+        },
+        {
+          "player": "Mr.Kalns#1871",
+          "event_score": 9,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
+            }
+          ],
+          "position": 11
         },
         {
           "player": "punkda84#1555",
@@ -413,6 +387,20 @@
             {
               "round": "2026-08-16",
               "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
+            }
+          ],
+          "position": 12
+        },
+        {
+          "player": "Tony_The_Brick#8725",
+          "event_score": 9,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 1",
               "rank": 2,
               "points": 9
             }
