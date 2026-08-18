@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:02:00.338465+00:00",
+  "generated_at": "2026-08-18T19:42:14.693647+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -256,21 +256,21 @@
           "position": 3
         },
         {
-          "player": "Carsten#1920",
-          "event_score": 19,
-          "firsts": 1,
+          "player": "BCats87#9214",
+          "event_score": 20,
+          "firsts": 2,
           "placements": [
             {
-              "round": "2026-08-17",
-              "board": "Aero Trails — Course 7",
+              "round": "2026-08-18",
+              "board": "Holocache",
               "rank": 1,
               "points": 10
             },
             {
               "round": "2026-08-18",
-              "board": "Aero Trails — Course 7",
-              "rank": 2,
-              "points": 9
+              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+              "rank": 1,
+              "points": 10
             }
           ],
           "position": 4
@@ -336,6 +336,20 @@
           "position": 7
         },
         {
+          "player": "Carsten#1920",
+          "event_score": 10,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 7",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 8
+        },
+        {
           "player": "HappybuildingB#3416",
           "event_score": 10,
           "firsts": 1,
@@ -347,7 +361,7 @@
               "points": 10
             }
           ],
-          "position": 8
+          "position": 9
         },
         {
           "player": "Jerz_11#7908",
@@ -361,7 +375,7 @@
               "points": 10
             }
           ],
-          "position": 9
+          "position": 10
         },
         {
           "player": "LindaKnights#9411",
@@ -375,7 +389,7 @@
               "points": 10
             }
           ],
-          "position": 10
+          "position": 11
         },
         {
           "player": "MSPDriver#3454",
@@ -389,7 +403,7 @@
               "points": 10
             }
           ],
-          "position": 11
+          "position": 12
         },
         {
           "player": "punkda84#1555",
@@ -403,7 +417,7 @@
               "points": 9
             }
           ],
-          "position": 12
+          "position": 13
         },
         {
           "player": "Eric_EH444#8644",
@@ -417,7 +431,7 @@
               "points": 8
             }
           ],
-          "position": 13
+          "position": 14
         }
       ],
       "rounds_recorded": [

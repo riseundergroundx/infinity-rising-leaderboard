@@ -200,6 +200,12 @@
         ],
         "2026-08-18": [
           {
+            "player": "BCats87#9214",
+            "board": "Holocache",
+            "rank": 1,
+            "points": 10
+          },
+          {
             "player": "Tony_The_Brick#8725",
             "board": "Aero Trails — Course 1",
             "rank": 1,
@@ -224,14 +230,14 @@
             "points": 10
           },
           {
-            "player": "Carsten#1920",
-            "board": "Aero Trails — Course 7",
-            "rank": 2,
-            "points": 9
-          },
-          {
             "player": "Lourde#2361",
             "board": "Calido Yellow — Bubblejett Super Phantom",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "BCats87#9214",
+            "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
             "rank": 1,
             "points": 10
           },
@@ -245,5 +251,5 @@
       }
     }
   },
-  "updated_at": "2026-08-18T17:02:00.338465+00:00"
+  "updated_at": "2026-08-18T19:42:14.693647+00:00"
 }
