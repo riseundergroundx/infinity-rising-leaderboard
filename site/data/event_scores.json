@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:58:00.086822+00:00",
+  "generated_at": "2026-08-19T03:15:30.037989+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -204,6 +204,70 @@
           "position": 1
         },
         {
+          "player": "BCats87#9214",
+          "event_score": 40,
+          "firsts": 4,
+          "placements": [
+            {
+              "round": "2026-08-18",
+              "board": "Holocache",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-18",
+              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-19",
+              "board": "Holocache",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-19",
+              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 2
+        },
+        {
+          "player": "Witcher#3465",
+          "event_score": 40,
+          "firsts": 4,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Aero Trails — Course 5",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 5",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-18",
+              "board": "Aero Trails — Course 5",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-19",
+              "board": "Aero Trails — Course 5",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 3
+        },
+        {
           "player": "CornyB_Knights#3952",
           "event_score": 30,
           "firsts": 3,
@@ -223,52 +287,6 @@
             {
               "round": "2026-08-17",
               "board": "Aero Trails — Course 1",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 2
-        },
-        {
-          "player": "Witcher#3465",
-          "event_score": 30,
-          "firsts": 3,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Aero Trails — Course 5",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-17",
-              "board": "Aero Trails — Course 5",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-18",
-              "board": "Aero Trails — Course 5",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 3
-        },
-        {
-          "player": "BCats87#9214",
-          "event_score": 20,
-          "firsts": 2,
-          "placements": [
-            {
-              "round": "2026-08-18",
-              "board": "Holocache",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-18",
-              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
               "rank": 1,
               "points": 10
             }
@@ -425,7 +443,8 @@
       "rounds_recorded": [
         "2026-08-16",
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-08-19"
       ]
     }
   ]
