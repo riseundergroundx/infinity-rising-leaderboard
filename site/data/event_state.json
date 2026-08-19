@@ -238,20 +238,14 @@
         ],
         "2026-08-19": [
           {
-            "player": "BCats87#9214",
-            "board": "Holocache",
-            "rank": 1,
-            "points": 10
-          },
-          {
             "player": "Witcher#3465",
             "board": "Aero Trails — Course 5",
             "rank": 1,
             "points": 10
           },
           {
-            "player": "BCats87#9214",
-            "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+            "player": "Mr.Kalns#1871",
+            "board": "Aero Trails — Course 7",
             "rank": 1,
             "points": 10
           }
@@ -259,5 +253,5 @@
       }
     }
   },
-  "updated_at": "2026-08-19T16:53:03.026986+00:00"
+  "updated_at": "2026-08-19T19:42:26.236200+00:00"
 }

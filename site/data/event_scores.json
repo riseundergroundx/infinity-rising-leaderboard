@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T16:53:03.026986+00:00",
+  "generated_at": "2026-08-19T19:42:26.236200+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -204,38 +204,6 @@
           "position": 1
         },
         {
-          "player": "BCats87#9214",
-          "event_score": 40,
-          "firsts": 4,
-          "placements": [
-            {
-              "round": "2026-08-18",
-              "board": "Holocache",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-18",
-              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-19",
-              "board": "Holocache",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-19",
-              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 2
-        },
-        {
           "player": "Witcher#3465",
           "event_score": 40,
           "firsts": 4,
@@ -265,7 +233,7 @@
               "points": 10
             }
           ],
-          "position": 3
+          "position": 2
         },
         {
           "player": "CornyB_Knights#3952",
@@ -287,6 +255,26 @@
             {
               "round": "2026-08-17",
               "board": "Aero Trails — Course 1",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 3
+        },
+        {
+          "player": "BCats87#9214",
+          "event_score": 20,
+          "firsts": 2,
+          "placements": [
+            {
+              "round": "2026-08-18",
+              "board": "Holocache",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-18",
+              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
               "rank": 1,
               "points": 10
             }
@@ -314,6 +302,26 @@
           "position": 5
         },
         {
+          "player": "Mr.Kalns#1871",
+          "event_score": 19,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
+            },
+            {
+              "round": "2026-08-19",
+              "board": "Aero Trails — Course 7",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 6
+        },
+        {
           "player": "Carsten#1920",
           "event_score": 10,
           "firsts": 1,
@@ -325,7 +333,7 @@
               "points": 10
             }
           ],
-          "position": 6
+          "position": 7
         },
         {
           "player": "HappybuildingB#3416",
@@ -339,7 +347,7 @@
               "points": 10
             }
           ],
-          "position": 7
+          "position": 8
         },
         {
           "player": "Jerz_11#7908",
@@ -353,7 +361,7 @@
               "points": 10
             }
           ],
-          "position": 8
+          "position": 9
         },
         {
           "player": "LindaKnights#9411",
@@ -367,7 +375,7 @@
               "points": 10
             }
           ],
-          "position": 9
+          "position": 10
         },
         {
           "player": "MSPDriver#3454",
@@ -379,20 +387,6 @@
               "board": "Calido Yellow — Valley Raceworx T3 2023",
               "rank": 1,
               "points": 10
-            }
-          ],
-          "position": 10
-        },
-        {
-          "player": "Mr.Kalns#1871",
-          "event_score": 9,
-          "firsts": 0,
-          "placements": [
-            {
-              "round": "2026-08-17",
-              "board": "Aero Trails — Course 5",
-              "rank": 2,
-              "points": 9
             }
           ],
           "position": 11
