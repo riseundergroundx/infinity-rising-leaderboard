@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:26:32.178054+00:00",
+  "generated_at": "2026-08-20T08:08:23.122194+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -205,8 +205,8 @@
         },
         {
           "player": "Witcher#3465",
-          "event_score": 50,
-          "firsts": 5,
+          "event_score": 40,
+          "firsts": 4,
           "placements": [
             {
               "round": "2026-08-16",
@@ -228,12 +228,6 @@
             },
             {
               "round": "2026-08-19",
-              "board": "Aero Trails — Course 5",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-20",
               "board": "Aero Trails — Course 5",
               "rank": 1,
               "points": 10
@@ -301,8 +295,8 @@
         },
         {
           "player": "Mr.Kalns#1871",
-          "event_score": 29,
-          "firsts": 2,
+          "event_score": 28,
+          "firsts": 1,
           "placements": [
             {
               "round": "2026-08-17",
@@ -319,8 +313,8 @@
             {
               "round": "2026-08-20",
               "board": "Aero Trails — Course 7",
-              "rank": 1,
-              "points": 10
+              "rank": 2,
+              "points": 9
             }
           ],
           "position": 5
@@ -346,6 +340,26 @@
           "position": 6
         },
         {
+          "player": "MSPDriver#3454",
+          "event_score": 20,
+          "firsts": 2,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Calido Yellow — Valley Raceworx T3 2023",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-20",
+              "board": "Aero Trails — Course 7",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 7
+        },
+        {
           "player": "Ray.Racer-KG#2740",
           "event_score": 20,
           "firsts": 2,
@@ -363,7 +377,7 @@
               "points": 10
             }
           ],
-          "position": 7
+          "position": 8
         },
         {
           "player": "Faux_Hubris#3960",
@@ -383,7 +397,7 @@
               "points": 10
             }
           ],
-          "position": 8
+          "position": 9
         },
         {
           "player": "Carsten#1920",
@@ -397,7 +411,7 @@
               "points": 10
             }
           ],
-          "position": 9
+          "position": 10
         },
         {
           "player": "HappybuildingB#3416",
@@ -411,7 +425,7 @@
               "points": 10
             }
           ],
-          "position": 10
+          "position": 11
         },
         {
           "player": "Jerz_11#7908",
@@ -425,7 +439,7 @@
               "points": 10
             }
           ],
-          "position": 11
+          "position": 12
         },
         {
           "player": "LindaKnights#9411",
@@ -435,20 +449,6 @@
             {
               "round": "2026-08-18",
               "board": "Aero Trails — Course 7",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 12
-        },
-        {
-          "player": "MSPDriver#3454",
-          "event_score": 10,
-          "firsts": 1,
-          "placements": [
-            {
-              "round": "2026-08-17",
-              "board": "Calido Yellow — Valley Raceworx T3 2023",
               "rank": 1,
               "points": 10
             }

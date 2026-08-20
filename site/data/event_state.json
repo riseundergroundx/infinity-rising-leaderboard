@@ -270,16 +270,16 @@
             "points": 10
           },
           {
-            "player": "Witcher#3465",
-            "board": "Aero Trails — Course 5",
+            "player": "MSPDriver#3454",
+            "board": "Aero Trails — Course 7",
             "rank": 1,
             "points": 10
           },
           {
             "player": "Mr.Kalns#1871",
             "board": "Aero Trails — Course 7",
-            "rank": 1,
-            "points": 10
+            "rank": 2,
+            "points": 9
           },
           {
             "player": "Ray.Racer-KG#2740",
@@ -303,5 +303,5 @@
       }
     }
   },
-  "updated_at": "2026-08-20T03:26:32.178054+00:00"
+  "updated_at": "2026-08-20T08:08:23.122194+00:00"
 }
