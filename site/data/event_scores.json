@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:02:35.659441+00:00",
+  "generated_at": "2026-08-20T19:50:55.736180+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -300,32 +300,6 @@
           "position": 4
         },
         {
-          "player": "Mr.Kalns#1871",
-          "event_score": 28,
-          "firsts": 1,
-          "placements": [
-            {
-              "round": "2026-08-17",
-              "board": "Aero Trails — Course 5",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-19",
-              "board": "Aero Trails — Course 7",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-20",
-              "board": "Aero Trails — Course 7",
-              "rank": 2,
-              "points": 9
-            }
-          ],
-          "position": 5
-        },
-        {
           "player": "BCats87#9214",
           "event_score": 20,
           "firsts": 2,
@@ -343,7 +317,7 @@
               "points": 10
             }
           ],
-          "position": 6
+          "position": 5
         },
         {
           "player": "MSPDriver#3454",
@@ -363,7 +337,7 @@
               "points": 10
             }
           ],
-          "position": 7
+          "position": 6
         },
         {
           "player": "Ray.Racer-KG#2740",
@@ -383,7 +357,7 @@
               "points": 10
             }
           ],
-          "position": 8
+          "position": 7
         },
         {
           "player": "Faux_Hubris#3960",
@@ -399,6 +373,26 @@
             {
               "round": "2026-08-16",
               "board": "Calido Yellow — Valkyrie F9-R",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 8
+        },
+        {
+          "player": "Mr.Kalns#1871",
+          "event_score": 19,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
+            },
+            {
+              "round": "2026-08-19",
+              "board": "Aero Trails — Course 7",
               "rank": 1,
               "points": 10
             }
