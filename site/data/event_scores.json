@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:50:55.736180+00:00",
+  "generated_at": "2026-08-20T22:03:44.955232+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -242,38 +242,6 @@
           "position": 2
         },
         {
-          "player": "YonMyler#3891",
-          "event_score": 40,
-          "firsts": 4,
-          "placements": [
-            {
-              "round": "2026-08-19",
-              "board": "Holocache",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-19",
-              "board": "Calido Red — Bubblejett Sprinter 2022",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-20",
-              "board": "Holocache",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-20",
-              "board": "Calido Red — Bubblejett Sprinter 2022",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 3
-        },
-        {
           "player": "CornyB_Knights#3952",
           "event_score": 30,
           "firsts": 3,
@@ -297,7 +265,7 @@
               "points": 10
             }
           ],
-          "position": 4
+          "position": 3
         },
         {
           "player": "BCats87#9214",
@@ -317,7 +285,7 @@
               "points": 10
             }
           ],
-          "position": 5
+          "position": 4
         },
         {
           "player": "MSPDriver#3454",
@@ -337,7 +305,7 @@
               "points": 10
             }
           ],
-          "position": 6
+          "position": 5
         },
         {
           "player": "Ray.Racer-KG#2740",
@@ -353,6 +321,26 @@
             {
               "round": "2026-08-20",
               "board": "Calido Purple — Bubblejett Sprinter 2022",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 6
+        },
+        {
+          "player": "YonMyler#3891",
+          "event_score": 20,
+          "firsts": 2,
+          "placements": [
+            {
+              "round": "2026-08-19",
+              "board": "Holocache",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-19",
+              "board": "Calido Red — Bubblejett Sprinter 2022",
               "rank": 1,
               "points": 10
             }

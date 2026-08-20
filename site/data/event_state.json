@@ -264,12 +264,6 @@
         ],
         "2026-08-20": [
           {
-            "player": "YonMyler#3891",
-            "board": "Holocache",
-            "rank": 1,
-            "points": 10
-          },
-          {
             "player": "Witcher#3465",
             "board": "Aero Trails — Course 5",
             "rank": 1,
@@ -294,12 +288,6 @@
             "points": 10
           },
           {
-            "player": "YonMyler#3891",
-            "board": "Calido Red — Bubblejett Sprinter 2022",
-            "rank": 1,
-            "points": 10
-          },
-          {
             "player": "Ray.Racer-KG#2740",
             "board": "Calido Purple — Bubblejett Sprinter 2022",
             "rank": 1,
@@ -309,5 +297,5 @@
       }
     }
   },
-  "updated_at": "2026-08-20T19:50:55.736180+00:00"
+  "updated_at": "2026-08-20T22:03:44.955232+00:00"
 }
