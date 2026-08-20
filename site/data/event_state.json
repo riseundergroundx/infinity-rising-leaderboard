@@ -261,9 +261,47 @@
             "rank": 1,
             "points": 10
           }
+        ],
+        "2026-08-20": [
+          {
+            "player": "YonMyler#3891",
+            "board": "Holocache",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Witcher#3465",
+            "board": "Aero Trails — Course 5",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Mr.Kalns#1871",
+            "board": "Aero Trails — Course 7",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Ray.Racer-KG#2740",
+            "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "YonMyler#3891",
+            "board": "Calido Red — Bubblejett Sprinter 2022",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Ray.Racer-KG#2740",
+            "board": "Calido Purple — Bubblejett Sprinter 2022",
+            "rank": 1,
+            "points": 10
+          }
         ]
       }
     }
   },
-  "updated_at": "2026-08-19T22:02:04.756703+00:00"
+  "updated_at": "2026-08-20T03:12:06.570410+00:00"
 }

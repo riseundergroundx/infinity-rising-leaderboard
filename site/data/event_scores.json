@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:02:04.756703+00:00",
+  "generated_at": "2026-08-20T03:12:06.570410+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -205,8 +205,8 @@
         },
         {
           "player": "Witcher#3465",
-          "event_score": 40,
-          "firsts": 4,
+          "event_score": 50,
+          "firsts": 5,
           "placements": [
             {
               "round": "2026-08-16",
@@ -231,9 +231,47 @@
               "board": "Aero Trails — Course 5",
               "rank": 1,
               "points": 10
+            },
+            {
+              "round": "2026-08-20",
+              "board": "Aero Trails — Course 5",
+              "rank": 1,
+              "points": 10
             }
           ],
           "position": 2
+        },
+        {
+          "player": "YonMyler#3891",
+          "event_score": 40,
+          "firsts": 4,
+          "placements": [
+            {
+              "round": "2026-08-19",
+              "board": "Holocache",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-19",
+              "board": "Calido Red — Bubblejett Sprinter 2022",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-20",
+              "board": "Holocache",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-20",
+              "board": "Calido Red — Bubblejett Sprinter 2022",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 3
         },
         {
           "player": "CornyB_Knights#3952",
@@ -259,7 +297,33 @@
               "points": 10
             }
           ],
-          "position": 3
+          "position": 4
+        },
+        {
+          "player": "Mr.Kalns#1871",
+          "event_score": 29,
+          "firsts": 2,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
+            },
+            {
+              "round": "2026-08-19",
+              "board": "Aero Trails — Course 7",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-20",
+              "board": "Aero Trails — Course 7",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 5
         },
         {
           "player": "BCats87#9214",
@@ -279,27 +343,27 @@
               "points": 10
             }
           ],
-          "position": 4
+          "position": 6
         },
         {
-          "player": "YonMyler#3891",
+          "player": "Ray.Racer-KG#2740",
           "event_score": 20,
           "firsts": 2,
           "placements": [
             {
-              "round": "2026-08-19",
-              "board": "Holocache",
+              "round": "2026-08-20",
+              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
               "rank": 1,
               "points": 10
             },
             {
-              "round": "2026-08-19",
-              "board": "Calido Red — Bubblejett Sprinter 2022",
+              "round": "2026-08-20",
+              "board": "Calido Purple — Bubblejett Sprinter 2022",
               "rank": 1,
               "points": 10
             }
           ],
-          "position": 5
+          "position": 7
         },
         {
           "player": "Faux_Hubris#3960",
@@ -319,27 +383,7 @@
               "points": 10
             }
           ],
-          "position": 6
-        },
-        {
-          "player": "Mr.Kalns#1871",
-          "event_score": 19,
-          "firsts": 1,
-          "placements": [
-            {
-              "round": "2026-08-17",
-              "board": "Aero Trails — Course 5",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-19",
-              "board": "Aero Trails — Course 7",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 7
+          "position": 8
         },
         {
           "player": "Carsten#1920",
@@ -353,7 +397,7 @@
               "points": 10
             }
           ],
-          "position": 8
+          "position": 9
         },
         {
           "player": "HappybuildingB#3416",
@@ -367,7 +411,7 @@
               "points": 10
             }
           ],
-          "position": 9
+          "position": 10
         },
         {
           "player": "Jerz_11#7908",
@@ -381,7 +425,7 @@
               "points": 10
             }
           ],
-          "position": 10
+          "position": 11
         },
         {
           "player": "LindaKnights#9411",
@@ -395,7 +439,7 @@
               "points": 10
             }
           ],
-          "position": 11
+          "position": 12
         },
         {
           "player": "MSPDriver#3454",
@@ -409,7 +453,7 @@
               "points": 10
             }
           ],
-          "position": 12
+          "position": 13
         },
         {
           "player": "punkda84#1555",
@@ -423,7 +467,7 @@
               "points": 9
             }
           ],
-          "position": 13
+          "position": 14
         },
         {
           "player": "Tony_The_Brick#8725",
@@ -437,7 +481,7 @@
               "points": 9
             }
           ],
-          "position": 14
+          "position": 15
         },
         {
           "player": "Eric_EH444#8644",
@@ -451,14 +495,15 @@
               "points": 8
             }
           ],
-          "position": 15
+          "position": 16
         }
       ],
       "rounds_recorded": [
         "2026-08-16",
         "2026-08-17",
         "2026-08-18",
-        "2026-08-19"
+        "2026-08-19",
+        "2026-08-20"
       ]
     }
   ]
