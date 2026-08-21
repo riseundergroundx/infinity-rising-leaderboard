@@ -320,6 +320,12 @@
             "points": 9
           },
           {
+            "player": "EpicGamerLol#9954",
+            "board": "Aero Trails — Course 5",
+            "rank": 3,
+            "points": 8
+          },
+          {
             "player": "LindaKnights#9411",
             "board": "Aero Trails — Course 7",
             "rank": 1,
@@ -347,5 +353,5 @@
       }
     }
   },
-  "updated_at": "2026-08-21T19:36:04.986890+00:00"
+  "updated_at": "2026-08-21T22:00:41.407514+00:00"
 }
