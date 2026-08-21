@@ -297,6 +297,12 @@
         "2026-08-21": [
           {
             "player": "Faux_Hubris#3960",
+            "board": "Aero Trails — Course 3",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Faux_Hubris#3960",
             "board": "Aero Trails — Course 4",
             "rank": 1,
             "points": 10
@@ -341,5 +347,5 @@
       }
     }
   },
-  "updated_at": "2026-08-21T17:02:29.047592+00:00"
+  "updated_at": "2026-08-21T19:36:04.986890+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:02:29.047592+00:00",
+  "generated_at": "2026-08-21T19:36:04.986890+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -249,8 +249,8 @@
         },
         {
           "player": "Faux_Hubris#3960",
-          "event_score": 39,
-          "firsts": 3,
+          "event_score": 49,
+          "firsts": 4,
           "placements": [
             {
               "round": "2026-08-16",
@@ -261,6 +261,12 @@
             {
               "round": "2026-08-16",
               "board": "Calido Yellow — Valkyrie F9-R",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-21",
+              "board": "Aero Trails — Course 3",
               "rank": 1,
               "points": 10
             },
