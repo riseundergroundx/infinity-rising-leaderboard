@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:03:44.955232+00:00",
+  "generated_at": "2026-08-21T03:30:46.892175+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -205,8 +205,8 @@
         },
         {
           "player": "Witcher#3465",
-          "event_score": 50,
-          "firsts": 5,
+          "event_score": 60,
+          "firsts": 6,
           "placements": [
             {
               "round": "2026-08-16",
@@ -237,9 +237,47 @@
               "board": "Aero Trails — Course 5",
               "rank": 1,
               "points": 10
+            },
+            {
+              "round": "2026-08-21",
+              "board": "Aero Trails — Course 5",
+              "rank": 1,
+              "points": 10
             }
           ],
           "position": 2
+        },
+        {
+          "player": "MSPDriver#3454",
+          "event_score": 40,
+          "firsts": 4,
+          "placements": [
+            {
+              "round": "2026-08-17",
+              "board": "Calido Yellow — Valley Raceworx T3 2023",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-20",
+              "board": "Aero Trails — Course 7",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-21",
+              "board": "Aero Trails — Course 7",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-21",
+              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 3
         },
         {
           "player": "CornyB_Knights#3952",
@@ -265,7 +303,7 @@
               "points": 10
             }
           ],
-          "position": 3
+          "position": 4
         },
         {
           "player": "BCats87#9214",
@@ -281,26 +319,6 @@
             {
               "round": "2026-08-18",
               "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 4
-        },
-        {
-          "player": "MSPDriver#3454",
-          "event_score": 20,
-          "firsts": 2,
-          "placements": [
-            {
-              "round": "2026-08-17",
-              "board": "Calido Yellow — Valley Raceworx T3 2023",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-20",
-              "board": "Aero Trails — Course 7",
               "rank": 1,
               "points": 10
             }
@@ -388,6 +406,26 @@
           "position": 9
         },
         {
+          "player": "ReconMonk#4278",
+          "event_score": 18,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-20",
+              "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
+            },
+            {
+              "round": "2026-08-21",
+              "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
+            }
+          ],
+          "position": 10
+        },
+        {
           "player": "Carsten#1920",
           "event_score": 10,
           "firsts": 1,
@@ -399,7 +437,7 @@
               "points": 10
             }
           ],
-          "position": 10
+          "position": 11
         },
         {
           "player": "HappybuildingB#3416",
@@ -413,7 +451,7 @@
               "points": 10
             }
           ],
-          "position": 11
+          "position": 12
         },
         {
           "player": "Jerz_11#7908",
@@ -427,7 +465,7 @@
               "points": 10
             }
           ],
-          "position": 12
+          "position": 13
         },
         {
           "player": "LindaKnights#9411",
@@ -441,7 +479,21 @@
               "points": 10
             }
           ],
-          "position": 13
+          "position": 14
+        },
+        {
+          "player": "SunnyvaleKid#0926",
+          "event_score": 10,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-21",
+              "board": "Calido Yellow — Valkyrie F9-R",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 15
         },
         {
           "player": "punkda84#1555",
@@ -455,21 +507,7 @@
               "points": 9
             }
           ],
-          "position": 14
-        },
-        {
-          "player": "ReconMonk#4278",
-          "event_score": 9,
-          "firsts": 0,
-          "placements": [
-            {
-              "round": "2026-08-20",
-              "board": "Aero Trails — Course 5",
-              "rank": 2,
-              "points": 9
-            }
-          ],
-          "position": 15
+          "position": 16
         },
         {
           "player": "Tony_The_Brick#8725",
@@ -483,7 +521,7 @@
               "points": 9
             }
           ],
-          "position": 16
+          "position": 17
         },
         {
           "player": "Eric_EH444#8644",
@@ -497,7 +535,7 @@
               "points": 8
             }
           ],
-          "position": 17
+          "position": 18
         }
       ],
       "rounds_recorded": [
@@ -505,7 +543,8 @@
         "2026-08-17",
         "2026-08-18",
         "2026-08-19",
-        "2026-08-20"
+        "2026-08-20",
+        "2026-08-21"
       ]
     }
   ]

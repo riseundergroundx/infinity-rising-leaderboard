@@ -293,9 +293,41 @@
             "rank": 1,
             "points": 10
           }
+        ],
+        "2026-08-21": [
+          {
+            "player": "Witcher#3465",
+            "board": "Aero Trails — Course 5",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "ReconMonk#4278",
+            "board": "Aero Trails — Course 5",
+            "rank": 2,
+            "points": 9
+          },
+          {
+            "player": "MSPDriver#3454",
+            "board": "Aero Trails — Course 7",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "MSPDriver#3454",
+            "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "SunnyvaleKid#0926",
+            "board": "Calido Yellow — Valkyrie F9-R",
+            "rank": 1,
+            "points": 10
+          }
         ]
       }
     }
   },
-  "updated_at": "2026-08-20T22:03:44.955232+00:00"
+  "updated_at": "2026-08-21T03:30:46.892175+00:00"
 }
