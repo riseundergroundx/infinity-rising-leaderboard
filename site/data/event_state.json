@@ -296,6 +296,12 @@
         ],
         "2026-08-21": [
           {
+            "player": "Faux_Hubris#3960",
+            "board": "Aero Trails — Course 4",
+            "rank": 1,
+            "points": 10
+          },
+          {
             "player": "BlueLeader#8253",
             "board": "Aero Trails — Course 5",
             "rank": 1,
@@ -306,12 +312,6 @@
             "board": "Aero Trails — Course 5",
             "rank": 2,
             "points": 9
-          },
-          {
-            "player": "ReconMonk#4278",
-            "board": "Aero Trails — Course 5",
-            "rank": 3,
-            "points": 8
           },
           {
             "player": "LindaKnights#9411",
@@ -330,10 +330,16 @@
             "board": "Calido Yellow — Valkyrie F9-R",
             "rank": 1,
             "points": 10
+          },
+          {
+            "player": "Faux_Hubris#3960",
+            "board": "Calido Purple — Astro IV",
+            "rank": 1,
+            "points": 10
           }
         ]
       }
     }
   },
-  "updated_at": "2026-08-21T14:19:36.135066+00:00"
+  "updated_at": "2026-08-21T17:02:29.047592+00:00"
 }

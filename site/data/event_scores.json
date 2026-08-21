@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T14:19:36.135066+00:00",
+  "generated_at": "2026-08-21T17:02:29.047592+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -248,6 +248,38 @@
           "position": 2
         },
         {
+          "player": "Faux_Hubris#3960",
+          "event_score": 39,
+          "firsts": 3,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Kazekura Shinobi-X",
+              "rank": 2,
+              "points": 9
+            },
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Valkyrie F9-R",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-21",
+              "board": "Aero Trails — Course 4",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-21",
+              "board": "Calido Purple — Astro IV",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 3
+        },
+        {
           "player": "CornyB_Knights#3952",
           "event_score": 30,
           "firsts": 3,
@@ -271,7 +303,7 @@
               "points": 10
             }
           ],
-          "position": 3
+          "position": 4
         },
         {
           "player": "MSPDriver#3454",
@@ -297,7 +329,7 @@
               "points": 10
             }
           ],
-          "position": 4
+          "position": 5
         },
         {
           "player": "BCats87#9214",
@@ -317,7 +349,7 @@
               "points": 10
             }
           ],
-          "position": 5
+          "position": 6
         },
         {
           "player": "LindaKnights#9411",
@@ -337,7 +369,7 @@
               "points": 10
             }
           ],
-          "position": 6
+          "position": 7
         },
         {
           "player": "Ray.Racer-KG#2740",
@@ -357,7 +389,7 @@
               "points": 10
             }
           ],
-          "position": 7
+          "position": 8
         },
         {
           "player": "YonMyler#3891",
@@ -373,26 +405,6 @@
             {
               "round": "2026-08-19",
               "board": "Calido Red — Bubblejett Sprinter 2022",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 8
-        },
-        {
-          "player": "Faux_Hubris#3960",
-          "event_score": 19,
-          "firsts": 1,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Calido Yellow — Kazekura Shinobi-X",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-16",
-              "board": "Calido Yellow — Valkyrie F9-R",
               "rank": 1,
               "points": 10
             }
@@ -420,26 +432,6 @@
           "position": 10
         },
         {
-          "player": "ReconMonk#4278",
-          "event_score": 17,
-          "firsts": 0,
-          "placements": [
-            {
-              "round": "2026-08-20",
-              "board": "Aero Trails — Course 5",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-21",
-              "board": "Aero Trails — Course 5",
-              "rank": 3,
-              "points": 8
-            }
-          ],
-          "position": 11
-        },
-        {
           "player": "BlueLeader#8253",
           "event_score": 10,
           "firsts": 1,
@@ -451,7 +443,7 @@
               "points": 10
             }
           ],
-          "position": 12
+          "position": 11
         },
         {
           "player": "Carsten#1920",
@@ -465,7 +457,7 @@
               "points": 10
             }
           ],
-          "position": 13
+          "position": 12
         },
         {
           "player": "HappybuildingB#3416",
@@ -479,7 +471,7 @@
               "points": 10
             }
           ],
-          "position": 14
+          "position": 13
         },
         {
           "player": "Jerz_11#7908",
@@ -493,7 +485,7 @@
               "points": 10
             }
           ],
-          "position": 15
+          "position": 14
         },
         {
           "player": "SunnyvaleKid#0926",
@@ -507,7 +499,7 @@
               "points": 10
             }
           ],
-          "position": 16
+          "position": 15
         },
         {
           "player": "punkda84#1555",
@@ -516,6 +508,20 @@
           "placements": [
             {
               "round": "2026-08-16",
+              "board": "Aero Trails — Course 5",
+              "rank": 2,
+              "points": 9
+            }
+          ],
+          "position": 16
+        },
+        {
+          "player": "ReconMonk#4278",
+          "event_score": 9,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-20",
               "board": "Aero Trails — Course 5",
               "rank": 2,
               "points": 9
