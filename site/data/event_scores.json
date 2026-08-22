@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:55:54.751821+00:00",
+  "generated_at": "2026-08-22T19:12:51.841763+00:00",
   "active_event_id": "rise-week-2026-08-16",
   "events": [
     {
@@ -154,62 +154,6 @@
       "winner": null,
       "standings": [
         {
-          "player": "Faux_Hubris#3960",
-          "event_score": 79,
-          "firsts": 7,
-          "placements": [
-            {
-              "round": "2026-08-16",
-              "board": "Calido Yellow — Kazekura Shinobi-X",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-16",
-              "board": "Calido Yellow — Valkyrie F9-R",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-21",
-              "board": "Aero Trails — Course 3",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-21",
-              "board": "Aero Trails — Course 4",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-21",
-              "board": "Calido Purple — Astro IV",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-22",
-              "board": "Aero Trails — Course 3",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-22",
-              "board": "Aero Trails — Course 4",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-22",
-              "board": "Calido Purple — Astro IV",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 1
-        },
-        {
           "player": "Lourde#2361",
           "event_score": 70,
           "firsts": 7,
@@ -257,7 +201,7 @@
               "points": 10
             }
           ],
-          "position": 2
+          "position": 1
         },
         {
           "player": "Witcher#3465",
@@ -307,12 +251,50 @@
               "points": 9
             }
           ],
+          "position": 2
+        },
+        {
+          "player": "Faux_Hubris#3960",
+          "event_score": 49,
+          "firsts": 4,
+          "placements": [
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Kazekura Shinobi-X",
+              "rank": 2,
+              "points": 9
+            },
+            {
+              "round": "2026-08-16",
+              "board": "Calido Yellow — Valkyrie F9-R",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-21",
+              "board": "Aero Trails — Course 3",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-21",
+              "board": "Aero Trails — Course 4",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-21",
+              "board": "Calido Purple — Astro IV",
+              "rank": 1,
+              "points": 10
+            }
+          ],
           "position": 3
         },
         {
           "player": "MSPDriver#3454",
-          "event_score": 50,
-          "firsts": 5,
+          "event_score": 40,
+          "firsts": 4,
           "placements": [
             {
               "round": "2026-08-17",
@@ -335,12 +317,6 @@
             {
               "round": "2026-08-22",
               "board": "Aero Trails — Course 7",
-              "rank": 1,
-              "points": 10
-            },
-            {
-              "round": "2026-08-22",
-              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
               "rank": 1,
               "points": 10
             }
@@ -414,6 +390,26 @@
           "position": 7
         },
         {
+          "player": "ginger#1379",
+          "event_score": 20,
+          "firsts": 2,
+          "placements": [
+            {
+              "round": "2026-08-22",
+              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+              "rank": 1,
+              "points": 10
+            },
+            {
+              "round": "2026-08-22",
+              "board": "Calido Yellow — Valley Raceworx T1-B",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 8
+        },
+        {
           "player": "LindaKnights#9411",
           "event_score": 20,
           "firsts": 2,
@@ -431,7 +427,7 @@
               "points": 10
             }
           ],
-          "position": 8
+          "position": 9
         },
         {
           "player": "Ray.Racer-KG#2740",
@@ -451,7 +447,7 @@
               "points": 10
             }
           ],
-          "position": 9
+          "position": 10
         },
         {
           "player": "YonMyler#3891",
@@ -467,26 +463,6 @@
             {
               "round": "2026-08-19",
               "board": "Calido Red — Bubblejett Sprinter 2022",
-              "rank": 1,
-              "points": 10
-            }
-          ],
-          "position": 10
-        },
-        {
-          "player": "ginger#1379",
-          "event_score": 19,
-          "firsts": 1,
-          "placements": [
-            {
-              "round": "2026-08-22",
-              "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
-              "rank": 2,
-              "points": 9
-            },
-            {
-              "round": "2026-08-22",
-              "board": "Calido Yellow — Valley Raceworx T1-B",
               "rank": 1,
               "points": 10
             }
@@ -576,6 +552,20 @@
           "position": 16
         },
         {
+          "player": "PapaMikesGames#7901",
+          "event_score": 10,
+          "firsts": 1,
+          "placements": [
+            {
+              "round": "2026-08-22",
+              "board": "Holocache",
+              "rank": 1,
+              "points": 10
+            }
+          ],
+          "position": 17
+        },
+        {
           "player": "SunnyvaleKid#0926",
           "event_score": 10,
           "firsts": 1,
@@ -587,7 +577,21 @@
               "points": 10
             }
           ],
-          "position": 17
+          "position": 18
+        },
+        {
+          "player": "Neo255#4866",
+          "event_score": 9,
+          "firsts": 0,
+          "placements": [
+            {
+              "round": "2026-08-22",
+              "board": "Holocache",
+              "rank": 2,
+              "points": 9
+            }
+          ],
+          "position": 19
         },
         {
           "player": "punkda84#1555",
@@ -601,7 +605,7 @@
               "points": 9
             }
           ],
-          "position": 18
+          "position": 20
         },
         {
           "player": "ReconMonk#4278",
@@ -615,7 +619,7 @@
               "points": 9
             }
           ],
-          "position": 19
+          "position": 21
         },
         {
           "player": "Tony_The_Brick#8725",
@@ -629,7 +633,7 @@
               "points": 9
             }
           ],
-          "position": 20
+          "position": 22
         },
         {
           "player": "Eric_EH444#8644",
@@ -643,7 +647,7 @@
               "points": 8
             }
           ],
-          "position": 21
+          "position": 23
         }
       ],
       "rounds_recorded": [

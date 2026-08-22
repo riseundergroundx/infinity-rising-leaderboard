@@ -352,16 +352,16 @@
         ],
         "2026-08-22": [
           {
-            "player": "Faux_Hubris#3960",
-            "board": "Aero Trails — Course 3",
+            "player": "PapaMikesGames#7901",
+            "board": "Holocache",
             "rank": 1,
             "points": 10
           },
           {
-            "player": "Faux_Hubris#3960",
-            "board": "Aero Trails — Course 4",
-            "rank": 1,
-            "points": 10
+            "player": "Neo255#4866",
+            "board": "Holocache",
+            "rank": 2,
+            "points": 9
           },
           {
             "player": "BlueLeader#8253",
@@ -388,26 +388,14 @@
             "points": 10
           },
           {
-            "player": "MSPDriver#3454",
+            "player": "ginger#1379",
             "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
             "rank": 1,
             "points": 10
-          },
-          {
-            "player": "ginger#1379",
-            "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
-            "rank": 2,
-            "points": 9
           },
           {
             "player": "ginger#1379",
             "board": "Calido Yellow — Valley Raceworx T1-B",
-            "rank": 1,
-            "points": 10
-          },
-          {
-            "player": "Faux_Hubris#3960",
-            "board": "Calido Purple — Astro IV",
             "rank": 1,
             "points": 10
           }
@@ -415,5 +403,5 @@
       }
     }
   },
-  "updated_at": "2026-08-22T15:55:54.751821+00:00"
+  "updated_at": "2026-08-22T19:12:51.841763+00:00"
 }
