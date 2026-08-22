@@ -352,16 +352,22 @@
         ],
         "2026-08-22": [
           {
-            "player": "PapaMikesGames#7901",
+            "player": "Neo255#4866",
             "board": "Holocache",
             "rank": 1,
             "points": 10
           },
           {
-            "player": "Neo255#4866",
+            "player": "InexxCoffee#1382",
             "board": "Holocache",
             "rank": 2,
             "points": 9
+          },
+          {
+            "player": "PapaMikesGames#7901",
+            "board": "Holocache",
+            "rank": 3,
+            "points": 8
           },
           {
             "player": "BlueLeader#8253",
@@ -376,14 +382,14 @@
             "points": 9
           },
           {
-            "player": "EpicGamerLol#9954",
-            "board": "Aero Trails — Course 5",
-            "rank": 3,
-            "points": 8
-          },
-          {
             "player": "MSPDriver#3454",
             "board": "Aero Trails — Course 7",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "PDoub_#1899",
+            "board": "Calido Yellow — Astro IV",
             "rank": 1,
             "points": 10
           },
@@ -403,5 +409,5 @@
       }
     }
   },
-  "updated_at": "2026-08-22T19:12:51.841763+00:00"
+  "updated_at": "2026-08-22T21:57:30.859804+00:00"
 }
