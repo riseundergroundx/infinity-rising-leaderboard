@@ -382,7 +382,7 @@
             "points": 8
           },
           {
-            "player": "LindaKnights#9411",
+            "player": "MSPDriver#3454",
             "board": "Aero Trails — Course 7",
             "rank": 1,
             "points": 10
@@ -390,6 +390,18 @@
           {
             "player": "MSPDriver#3454",
             "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "ginger#1379",
+            "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+            "rank": 2,
+            "points": 9
+          },
+          {
+            "player": "ginger#1379",
+            "board": "Calido Yellow — Valley Raceworx T1-B",
             "rank": 1,
             "points": 10
           },
@@ -403,5 +415,5 @@
       }
     }
   },
-  "updated_at": "2026-08-22T13:48:18.756399+00:00"
+  "updated_at": "2026-08-22T15:55:54.751821+00:00"
 }
