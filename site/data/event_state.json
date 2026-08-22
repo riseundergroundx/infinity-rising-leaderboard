@@ -349,9 +349,59 @@
             "rank": 1,
             "points": 10
           }
+        ],
+        "2026-08-22": [
+          {
+            "player": "Faux_Hubris#3960",
+            "board": "Aero Trails — Course 3",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Faux_Hubris#3960",
+            "board": "Aero Trails — Course 4",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "BlueLeader#8253",
+            "board": "Aero Trails — Course 5",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Witcher#3465",
+            "board": "Aero Trails — Course 5",
+            "rank": 2,
+            "points": 9
+          },
+          {
+            "player": "EpicGamerLol#9954",
+            "board": "Aero Trails — Course 5",
+            "rank": 3,
+            "points": 8
+          },
+          {
+            "player": "LindaKnights#9411",
+            "board": "Aero Trails — Course 7",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "MSPDriver#3454",
+            "board": "Calido Yellow — Rando's Metalworks Sunset Speeder",
+            "rank": 1,
+            "points": 10
+          },
+          {
+            "player": "Faux_Hubris#3960",
+            "board": "Calido Purple — Astro IV",
+            "rank": 1,
+            "points": 10
+          }
         ]
       }
     }
   },
-  "updated_at": "2026-08-21T22:00:41.407514+00:00"
+  "updated_at": "2026-08-22T03:07:09.349938+00:00"
 }
