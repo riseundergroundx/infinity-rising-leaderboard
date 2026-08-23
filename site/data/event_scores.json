@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T21:57:30.859804+00:00",
-  "active_event_id": "rise-week-2026-08-16",
+  "generated_at": "2026-08-23T03:30:24.016184+00:00",
+  "active_event_id": null,
   "events": [
     {
       "id": "weekend-sprint-2026-08-15",
@@ -150,8 +150,8 @@
       "name": "Rise Week",
       "start": "2026-08-16T00:00:00Z",
       "end": "2026-08-23T00:00:00Z",
-      "state": "live",
-      "winner": null,
+      "state": "complete",
+      "winner": "Lourde#2361",
       "standings": [
         {
           "player": "Lourde#2361",
